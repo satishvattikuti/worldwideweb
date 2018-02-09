@@ -1,0 +1,191 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:15px;
+    line-height: 1.5;
+    padding:0;
+    margin:0;
+    background-color: #f4f4f4;
+}
+
+/* Global */
+.container {
+    width:80%;
+    margin:auto;
+    overflow: hidden;
+}
+
+ ul {
+    margin: 0;
+    padding:0;
+}
+
+/* Header */
+header {
+    background-color: #35424a;
+    color:#ffffff;
+    padding-top:30px;
+    min-height:70px;
+    border-bottom:#e8491d 3px solid;
+}
+
+header a {
+    color:#ffffff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size:16px;
+}
+
+header ul .left {
+    float: left;
+}
+
+header ul .right {
+    float:right;
+}
+
+header li {
+    display: inline-block;
+    padding: 0 25px 0 25px;
+    border:2px solid black;
+}
+
+header .current a {
+    color:#e8491d;
+    font-weight:bold;
+}
+
+header a:hover{
+    color: black;
+    font-weight: bold;
+}
+
+/* Show Case */
+
+#showcase {
+    min-height: 400px;
+    background: url('../img/build.jpg') no-repeat 0 -600px;
+    opacity: 1.2;
+    color:white;
+    text-align: center;
+}
+
+#showcase h1 {
+
+    margin-top:100px;
+    font-size:55px;
+    margin-bottom:10px;
+}
+
+#showcase p {
+    padding: 15px;
+    border-radius:8px;
+    text-align: justify;
+    font-size:20px;
+}
+
+/* About Me*/
+
+#about {
+    padding:10px;
+    color:white;
+    background:#35424a;
+    text-align: justify;
+}
+
+#about h1 {
+    text-align: center;
+}
+
+#about p {
+    padding: 15px;
+    border-radius: 8px;
+    font-style: italic;
+    font-size: 20px;
+}
+
+#about p:hover, #showcase p:hover {
+    border: 2px solid #e8491d;
+    background-color:black;
+}
+/* education */
+
+#education {
+    background:url('../img/tree.jpg') no-repeat;
+    color:black;
+}
+
+#education h1 {
+    font-size: 30px;
+}
+
+#education .left {
+    float:left;
+    margin-bottom: 20px;
+
+}
+#education .left:hover {
+    background: black;
+    border: 2px solid #e8491d;
+    border-radius: 8px;
+    color: white;
+    padding: 10px;
+}
+
+#education .right {
+    float:right;
+    margin-bottom: 20px;
+}
+
+#education .right:hover {
+    background: black;
+    border: 2px solid #e8491d;
+    border-radius: 8px;
+    color: white;
+    padding: 10px;
+}
+
+footer {
+    background: #e8491d;
+    text-align: center;
+}
+
+footer .social {
+    padding: 20px;
+    padding-right:20px;
+}
+
+
+
+/* Media Queries */
+
+@media(max-width:768px) {
+    header nav{
+        float: none;
+        text-align: center;
+        width:100%;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

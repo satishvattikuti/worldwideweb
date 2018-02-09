@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title> Public Universities In Ohio </title>
+    </head>
+    <body style="background-color:powderblue;">
+        <h1> Public Universities in Ohio</h1>
+        <ul>
+        <li>
+           <h3>Ohio State University </h3>
+           <img src="Images/Ohio-State.jpg" alt="Smiley face" height="300" width="500">
+           <br/>
+           <a href="https://www.osu.edu/">Visit their website</a>
+           <ol>
+               <h3> Admissions </h3>
+               <li>  Tution : 25,000$ </li>
+               <li>  SAT Range : 1169-1172 </li>
+               <li>  Application Fee : 60$ </li>
+               <li>Early Decision/Early Action :
+                    Yes</li>
+                <li> Acceptance : 54% </li>
+           </ol>
+        </li>
+        <li>
+                <h3>University of Cincinnati </h3>
+                <img src="Images/cincin.jpg" alt="Smiley face" height="300" width="500">
+                <br/>
+                <a href="http://www.uc.edu/"> Visit their website</a>
+                <ol>
+                    <h3> Admissions </h3>
+                    <li>  Tution : 11,000$ </li>
+                    <li>  SAT Range : Required </li>
+                    <li>  Application Fee : 50$ </li>
+                    <li>Early Decision/Early Action : Yes</li>
+                     <li> Acceptance : 76% </li>
+                </ol>
+        </li>
+        <li>
+                <h3>University of Toledo </h3>
+                <img src="Images/ut.jpg" alt="Smiley face" height="300" width="500">
+                <br/>
+                <a href="http://www.utoledo.edu/"> Visit their website</a>
+                <ol>
+                    <h3> Admissions </h3>
+                    <li>  Tution : 9,000$ </li>
+                    <li>  SAT Range : 920-1210 </li>
+                    <li>  Application Fee : 40$ </li>
+                    <li>Early Decision/Early Action : No </li>
+                     <li> Acceptance : 80% </li>
+                </ol>
+        </li>
+        <li>
+                <h3>Ohio University</h3>
+                <img src="Images/ou.jpg" alt="Smiley face" height="300" width="500">
+                <br/>
+                <a href="https://www.ohio.edu/"> Visit their website</a>
+                <ol>
+                    <h3> Admissions </h3>
+                    <li>  Tution : 13,000$ </li>
+                    <li>  SAT Range : 990-1200 </li>
+                    <li>  Application Fee : 50$ </li>
+                    <li>Early Decision/Early Action :  Yes </li>
+                     <li> Acceptance : 75% </li>
+                </ol>
+        </li>
+        <li>
+                <h3>Cleveland State University </h3>
+                <img src="Images/cs.jpg" alt="Smiley face" height="300" width="500">
+                <br/>
+                <a href="https://www.csuohio.edu/"> Visit their website</a>
+                <ol>
+                    <h3> Admissions </h3>
+                    <li>  Tution : 8,200$ </li>
+                    <li>  SAT Range : 890-1160 </li>
+                    <li>  Application Fee : 40$ </li>
+                    <li>Early Decision/Early Action : Yes </li>
+                     <li> Acceptance : 87% </li>
+                </ol>
+        </li>
+        </ul>
+    </body>
+</html>
